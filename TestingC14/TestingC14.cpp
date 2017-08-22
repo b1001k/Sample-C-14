@@ -11,6 +11,7 @@ using namespace std;
 int main()
 {
 	vector<int> table {1,2,3,4,5};
+	// This is a comment
 
 	cout << "The values in the table are\n";
 	for (int i = 0; i < 5; i++)
